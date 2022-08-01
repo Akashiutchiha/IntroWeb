@@ -1,0 +1,25 @@
+.header{
+    height: 35px;
+    background-color: rgb(3, 3, 56);
+    padding-left: 10px;
+}
+
+.row{
+    height: px;
+}
+.bg-default{
+    height: 75px;
+    text-align: center;
+    background-color: aqua;
+}
+.col-md-3{
+    padding-left: 10px;
+    color: white;
+}
+.list{
+    list-style-type: circle;
+}
+.video{
+    padding-left: 50px;
+    padding-top: 20px;
+}
