@@ -1,0 +1,68 @@
+.fa-clock{
+    margin-top: 2px;
+}
+.bell{
+    margin-right: 5px;
+}
+.cat{
+    height: 10px;
+}
+.dropdown{
+    background: transparent;
+}
+#nav{
+    background-color: rgb(26, 23, 23);
+    color:white;
+    
+}
+.nav{
+    background-color: rgb(26, 23, 23);
+}
+#accordion{
+    margin-left: 10px;
+}
+#header{
+    max-height: 25px;
+}
+h3{
+    font-size: 17px;
+    max-height:35px ;
+    display: block;
+    padding-top: 20px;
+    
+}
+#body{
+    background-color:rgb(190, 181, 181);
+    
+}
+.card{
+    margin-left: 0px;
+    margin-top: 25px;
+    height: 225px;
+    display: block;
+    box-shadow: 1px 3px 8px #000000;
+    
+}
+#link{
+    font-size: 150px;
+    margin-left: 55px;
+    color: rgb(84, 92, 199);
+}
+.number{
+    opacity: 70%;
+    background-color: black;
+    float: right;
+    margin-top: 0px;
+    display: block;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    color: white;
+}
+.card-header{
+    background-color:rgb(240, 208, 169);
+}
+.content{
+    
+
+}
